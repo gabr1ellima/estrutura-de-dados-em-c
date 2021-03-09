@@ -1,9 +1,21 @@
 # Estrutura de Dados em C
 
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
-![License](https://img.shields.io/static/v1?label=C&message=Learning&color=inactive)
+<p align="center">
+  <img src="images/intro.png" width="150">
+</p>
 
-## Conteúdo Programático
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20License-MIT-blue.svg")>
+  <img src="https://img.shields.io/static/v1?label=C&message=Learning&color=inactive">
+</p>
+
+<p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pre-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gabr1ellima/estrutura-de-dados-em-c/blob/master/LICENSE.md">Licença</a>
+</p>
+
+<h2 id="sobre">Conteúdo Programático<h2>
 
 ### Estruturas de Dados Heterogêneas
 - Ponteiros Com a Utilização da Linguagem de Programação C
