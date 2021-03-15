@@ -47,14 +47,14 @@
 
 <h2 id="pre-requisitos">Pré-requisitos</h2>
 
-[VSCode]("https://code.visualstudio.com/download")
+[VSCode](https://code.visualstudio.com/download)
 
-[MinGW]("https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download")
+[MinGW](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)
 
-[Instalação do MinGW]("https://code.visualstudio.com/docs/languages/cpp")
+[Instalação do MinGW](https://code.visualstudio.com/docs/languages/cpp)
 
 ### Extenxões
 
-[C/C++]("https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools")
+[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
-[C/C++ Compile Run]("https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run")
+[C/C++ Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
