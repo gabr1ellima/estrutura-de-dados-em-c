@@ -29,7 +29,7 @@
 - Passagem de Parâmetros por Valor e por Referência
 - Escopo das Variáveis Locais e Globais
 ---
-### Listas, Pilhas e Filas (crédito Digital)
+### Listas, Pilhas e Filas
 - Principais Conceitos Envolvidos na Manipulação de Dados na Memória
 - Contrastação da Forma de Manipulação por Encadeamento da Manipulação Com Estruturas Sequenciais
 - Algoritmos das Principais Operações, Baseados na Linguagem C, e as Características Peculiares de Pilhas
